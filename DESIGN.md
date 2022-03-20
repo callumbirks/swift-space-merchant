@@ -1,0 +1,8 @@
+![](media/initial-designs/start.png)
+![](media/initial-designs/outpost.png)
+![](media/initial-designs/hangar.png)
+![](media/initial-designs/ships.png)
+![](media/initial-designs/missions.png)
+![](media/initial-designs/journeys.png)
+![](media/initial-designs/trading.png)
+![](media/initial-designs/shop.png)
